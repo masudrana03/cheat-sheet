@@ -4,7 +4,7 @@
 Here is my all Project list with resource link under the hood.
 ## List of all project
 
-- [Food Project](https://masudrana03.github.io/cheat-sheet/food-project.html)
+- [Food Project](https://masudrana03.github.io/cheat-sheet/food-project)
 - [Project Name](https://choosealicense.com/licenses/mit/)
 - [Project Name](https://choosealicense.com/licenses/mit/)
 - [Project Name](https://choosealicense.com/licenses/mit/)
